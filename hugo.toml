@@ -1,4 +1,4 @@
-baseURL = 'https://blog.milfctf.com'
+baseURL = 'https://blog.milf.club'
 languageCode = 'en-us'
 title = "Blog | MILF CTF Team"
 theme = "yinyang"
@@ -16,7 +16,7 @@ DefaultContentLanguage = "en"
 
 [author]
   name = "MILF"
-  homepage = "https://milfctf.com/"
+  homepage = "https://milf.club/"
 
 [params]
 mainSections = ["writeups"]
@@ -31,5 +31,5 @@ name = "- 📰 Articles"
 link = "/articles"
 [[params.socials]]
 name = "-❓About Us"
-link = "https://milfctf.com/"
+link = "https://milf.club"
 lazyImage = true
